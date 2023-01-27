@@ -34,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=axg-coder&" alt="axg-coder" /></p>
 
-<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AXG-coder" alt="axg-coder" /></p>
+<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=MOHDSHABANKHAN" alt="axg-coder" /></p>
 
 
