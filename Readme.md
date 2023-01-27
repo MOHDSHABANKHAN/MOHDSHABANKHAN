@@ -14,9 +14,14 @@
 
 - ⚡ Fun fact **I love to learn all about programming technology**
 
+<h3 align="left">Portfolio</h3>
+<p align="left">
+
+<a href="https://mohdshabankhan.github.io/portfolio/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4365/4365933.png" alt="sk-coder" height="30" width="40" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://mohdshabankhan.github.io/portfolio/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4365/4365933.png" alt="sk-coder" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/mohd-shaban-khan-93019b199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sk-coder" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
