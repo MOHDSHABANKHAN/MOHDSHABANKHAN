@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://mohdshabankhan.github.io/portfolio/" target="blank"><img align="center" src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fportfolio_4365933&psig=AOvVaw0NGbFoInjGOZAKFxV-BpUp&ust=1674912610314000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjXm-vt5_wCFQAAAAAdAAAAABAE)" alt="sk-coder" height="30" width="40" /></a>
+<a href="https://mohdshabankhan.github.io/portfolio/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4365/4365933.png" alt="sk-coder" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohd-shaban-khan-93019b199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sk-coder" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
